@@ -10,3 +10,8 @@ From an email from George.
 *The normal partition is the lowest priority partition, is available on all nodes, and has an unlimited wall-clock time limit.  The short partition has a medium priority, is available on all nodes, and has a 3 hour wall-clock time limit.  The high partition is available on 4 nodes, has an unlimited wall-clock time limit, and has the highest priority.*
 
 *If a job is running on a lower priority partition, it can be suspended by a higher priority job, but will then continue when the high priority job has been completed.  This is similar to how sos.q and all.q behaved previously.*
+
+
+Nodes and cores
+
+https://stackoverflow.com/questions/65603381/slurm-nodes-tasks-cores-and-cpus#:~:text=From%20what%20I%20gathered%2C%20nodes,task%20assigned%20to%20that%20CPU.
