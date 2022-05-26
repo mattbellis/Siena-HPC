@@ -91,3 +91,13 @@ PartitionName=high
    JobDefaults=(null)
    DefMemPerNode=UNLIMITED MaxMemPerNode=UNLIMITED
 ```
+
+# Check status of nodes
+
+```
+sinfo
+```
+or
+```
+sinfo -R
+```
