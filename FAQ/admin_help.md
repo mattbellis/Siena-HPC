@@ -5,7 +5,7 @@ scontrol show config
 ```
 Output will be something like
 ```
-onfiguration data as of 2022-05-26T10:41:42
+Configuration data as of 2022-05-26T10:41:42
 AccountingStorageBackupHost = (null)
 AccountingStorageEnforce = none
 AccountingStorageHost   = localhost
