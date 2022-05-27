@@ -91,3 +91,19 @@ PartitionName=high
    JobDefaults=(null)
    DefMemPerNode=UNLIMITED MaxMemPerNode=UNLIMITED
 ```
+
+# Check status of nodes
+
+```
+sinfo
+```
+or
+```
+sinfo -R
+```
+
+# Bringing down a node for maintenance
+
+https://www.advancedclustering.com/act_kb/tech-tip-taking-compute-nodes-down-for-maintenance/
+
+
