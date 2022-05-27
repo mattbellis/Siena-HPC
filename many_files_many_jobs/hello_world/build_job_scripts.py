@@ -72,7 +72,7 @@ for f in files:
 # This writes and submits the files
 #for f in inputfiles[:]: # Submit all the jobs 
 for f in inputfiles[0:10]: # Submit 10 jobs for 10 files
-    write_file(f,submit=True)
+    write_file(f,submit=False)
 #'''
 
 ################################################################################
