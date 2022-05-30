@@ -107,3 +107,10 @@ sinfo -R
 https://www.advancedclustering.com/act_kb/tech-tip-taking-compute-nodes-down-for-maintenance/
 
 
+# List of modules or packages to be installed
+
+`octave`
+
+```
+sudo sypper install octave-cli
+```
